@@ -732,6 +732,4 @@ CartForge/
 
 ---
 
-**Assignment compliance:** Multi-user carts, item ingestion, tiered checkout, Feature X (Cart TTL), input validation, README + DESIGN.md, environment-based DB config.
 
-**Submission reminder:** Push this project to a **public GitHub repository** and submit the repo link as required by the assignment handout.
