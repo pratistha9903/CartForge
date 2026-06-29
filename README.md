@@ -5,7 +5,10 @@ A production-style shopping cart microservice built for the **Node.js Backend In
 This repository includes the **required Express + MongoDB backend** plus an optional **React storefront** for end-to-end demos.
 
 ---
+## Demo Video
 
+https://github.com/user-attachments/assets/d66cdf91-412c-41b4-ba4d-8920138e4749
+---
 ## Table of Contents
 
 1. [Overview](#overview)
@@ -731,5 +734,6 @@ CartForge/
 - [`DESIGN.md`](./DESIGN.md) — Architecture decisions, edge cases, trade-offs, validation strategy
 
 ---
+
 
 
