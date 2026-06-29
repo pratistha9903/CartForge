@@ -9,25 +9,6 @@ This repository includes the **required Express + MongoDB backend** plus an opti
 
 https://github.com/user-attachments/assets/d66cdf91-412c-41b4-ba4d-8920138e4749
 
-
----
-## Table of Contents
-
-1. [Overview](#overview)
-2. [Tech Stack](#tech-stack)
-3. [Architecture](#architecture)
-4. [Session & User Isolation Strategy](#session--user-isolation-strategy)
-5. [Database Schemas](#database-schemas)
-6. [Promotion Engine](#promotion-engine)
-7. [Feature X — Cart TTL Expiration](#feature-x--cart-ttl-expiration)
-8. [API Reference](#api-reference)
-9. [Input Validation](#input-validation)
-10. [Environment Variables](#environment-variables)
-11. [Local Setup](#local-setup)
-12. [Frontend (Optional Demo UI)](#frontend-optional-demo-ui)
-13. [Testing Checklist](#testing-checklist)
-14. [Project Structure](#project-structure)
-
 ---
 
 ## Overview
